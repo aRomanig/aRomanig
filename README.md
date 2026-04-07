@@ -1,5 +1,5 @@
 ## Hi, I'm Arthur Romani Gonçalves
-##### Information Systems student @ [University of São Paulo](usp.br)
+##### Information Systems student @ [University of São Paulo](https://usp.br)
 -=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
 
 
