@@ -1,4 +1,11 @@
-## Hi there 👋
+## Hi, I'm Arthur Romani Gonçalves
+##### Information Systems student @ [University of São Paulo](usp.br)
+-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+
+
+
+
+
 
 <!--
 **aRomanig/aRomanig** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
