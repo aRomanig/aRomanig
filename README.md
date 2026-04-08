@@ -1,8 +1,10 @@
-## Hi, I'm Arthur Romani Gonçalves
+## Hi, I'm Arthur!
 ##### Information Systems student @ [University of São Paulo](https://usp.br)
--=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=
+---
 
+### Currently coding with:  [![My Skills](https://skillicons.dev/icons?i=js,html,css,node.js, c, cpp, arduino, py, bash, linux)](https://skillicons.dev)
 
+Find me on [LinkedIn!](https://linkedin.com/in/arthur-romani)
 
 
 
